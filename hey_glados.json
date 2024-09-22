@@ -3,7 +3,7 @@
   "wake_word": "hey glados",
   "author": "ShiniGandhi",
   "website": "github://ShiniGandhi/",
-  "model": "./hey_glados.tflite",
+  "model": "./hey_gla_dose.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
